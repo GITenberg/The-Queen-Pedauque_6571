@@ -1,0 +1,45 @@
+_repo: The-Queen-Pedauque_6571
+_version: 0.0.1
+alternative_title: La rôtisserie de la reine Pédauque. English
+contributor:
+  translator:
+    agent_name: Stritzko, Jos. A. V.
+    gutenberg_agent_id: '2091'
+    url: http://www.gutenberg.org/2009/agents/2091
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: "At the Sign of the Reine Pédauque (French: La Rôtisserie de la reine\
+  \ Pédauque) is a historical novel by Anatole France, written in 1892 and published\
+  \ the next year. The novel tells of the tribulations of the young Jacques Ménétrier\
+  \ at the beginning of the 18th century. Its most important source is the 17th-century\
+  \ occult text Comte de Gabalis.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6571'
+  wikidata: Q1211706
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+- GITenberg
+title: The Queen Pedauque
+url: http://www.gutenberg.org/ebooks/6571
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_R%C3%B4tisserie_de_la_reine_P%C3%A9dauque
+- https://de.wikipedia.org/wiki/Die_Bratk%C3%BCche_zur_K%C3%B6nigin_Pedauque
+- https://en.wikipedia.org/wiki/At_the_Sign_of_the_Reine_P%C3%A9dauque
+- https://sv.wikipedia.org/wiki/Drottning_G%C3%A5sfot
