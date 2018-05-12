@@ -1,11 +1,14 @@
 _repo: The-Queen-Pedauque_6571
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: La rôtisserie de la reine Pédauque. English
 contributor:
   translator:
     agent_name: Stritzko, Jos. A. V.
     gutenberg_agent_id: '2091'
     url: http://www.gutenberg.org/2009/agents/2091
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -23,6 +26,8 @@ description: "At the Sign of the Reine Pédauque (French: La Rôtisserie de la r
   \ the next year. The novel tells of the tribulations of the young Jacques Ménétrier\
   \ at the beginning of the 18th century. Its most important source is the 17th-century\
   \ occult text Comte de Gabalis.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6571#The-Queen-Pedauque
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
